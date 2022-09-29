@@ -1,0 +1,2 @@
+# globali
+rep global
